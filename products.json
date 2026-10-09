@@ -1,0 +1,33 @@
+{
+  "brand": "Joonini",
+  "licensee": "PT SNS",
+  "products": [
+    {
+      "id": "cup-01",
+      "name": "Self-feeding cup",
+      "nameKo": "자기주도 물컵",
+      "category": "Cup",
+      "summary": "Placeholder. Replace with the Indonesia license line.",
+      "spec": "Capacity and age to be confirmed",
+      "status": "Coming soon"
+    },
+    {
+      "id": "tableware-01",
+      "name": "First tableware set",
+      "nameKo": "이유식기 세트",
+      "category": "Tableware",
+      "summary": "Placeholder. Photo and spec go in this file.",
+      "spec": "Material and pieces to be confirmed",
+      "status": "Coming soon"
+    },
+    {
+      "id": "utensil-01",
+      "name": "Bendable spoon and fork",
+      "nameKo": "휘어지는 수저",
+      "category": "Utensil",
+      "summary": "Placeholder for the first showroom card.",
+      "spec": "Material to be confirmed",
+      "status": "Coming soon"
+    }
+  ]
+}
